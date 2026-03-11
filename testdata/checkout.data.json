@@ -1,0 +1,15 @@
+{
+    "city": "Bangalore",
+    "address1": "Asthinapur",
+    "address2": "Mahabharat",
+    "zip": "789456",
+    "phonenumber": "74185209630",
+    "successmsg": "Your order has been successfully processed!",
+    "checkPayMsg": "Mail Personal or Business Check, Cashier's Check or money order to:",
+    "cardHolderName": "Jon Stark",
+    "cardNumber": "1234567890",
+    "creditcardType": "Master card",
+    "expirymonth": "06",
+    "expiryYear": "2030",
+    "PONumber": "74185296"
+}

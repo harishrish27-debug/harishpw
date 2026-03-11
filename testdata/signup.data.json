@@ -1,0 +1,12 @@
+{
+    "url": "https://demowebshop.tricentis.com/",
+    "gender": "male",
+    "firstname": "edith",
+    "lastname": "stark",
+    "email": "jon@gmail.com",
+    "password": "jon@gmail.com",
+    "confirmpassword": "catlyn@gmail.com",
+    "search": "Smartphone",
+    "registerSuccesspageURL": "https://demowebshop.tricentis.com/registerresult/1",
+    "homepageURL": "https://demowebshop.tricentis.com/"
+}
